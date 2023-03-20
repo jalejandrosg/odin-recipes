@@ -1,0 +1,1 @@
+This is the first repo i'll upload to github. This project will show the knowdlge I¿ve adquired through The Odin Project.
